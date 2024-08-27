@@ -1,0 +1,85 @@
+.navbar-nav{
+    margin:auto;
+}
+#nav{
+    background-color:#1f1f1f;
+}
+.navbar-brand{
+    position:relative;
+
+}
+h1{
+    text-align: center;
+}
+#sFig figure{
+    width:300px;
+}
+#sFig figure img{
+    width: 300px;
+    height:220px;
+}
+#sFig figure figcaption{
+    padding:5%;
+    height:250px;
+    
+}
+figcaption button{
+    width:80%;
+    margin:0 10%;
+}
+section{
+    margin: 5% 20%;
+}
+section p{
+    text-align: center;
+}
+#top{
+    position:relative;
+}
+#top figcaption{
+position: absolute;
+top:30%;
+left:40%;
+text-align: center;
+text-shadow: 1px 1px 4px #e0dac0;
+}
+footer{
+    background-color: #1f1f1f;
+    height:200px;
+    text-align: center;
+    padding-top:80px;
+    
+}
+footer img{
+    width:100px;
+    height:100px;
+    position: relative;
+    bottom:25px;
+
+}
+#bFig{
+    margin-bottom:5%;
+text-align: center;
+}
+#bFig img{
+    width:60%;
+}
+#bFig figcaption {
+    width:500px;
+    padding:2%;
+    padding-top:10%;
+}
+footer p{
+    color:white;
+}
+section h1{
+    margin-top:10%;
+}
+h2 img{
+    width:100px;
+}
+#active{
+    text-decoration:underline;
+}
+    
+
