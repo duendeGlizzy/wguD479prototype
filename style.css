@@ -59,13 +59,13 @@ footer img{
 }
 #bFig{
     margin-bottom:5%;
-text-align: center;
+    text-align: center;
 }
 #bFig img{
     width:60%;
 }
 #bFig figcaption {
-    width:500px;
+ 
     padding:2%;
     padding-top:10%;
 }
@@ -81,5 +81,8 @@ h2 img{
 #active{
     text-decoration:underline;
 }
-    
+figure{
+    box-shadow: rgba(0,0,0,.5) 1px 1px 10px;
+}
+  
 
